@@ -1,6 +1,6 @@
 # Project Title
 
-One paragraph of project description goes here.
+In this project, I was assigned to take existing HTML and CSS code and make it more a website for Horiseon Digital Marketing more accessible to impaired users. 
 
 ## Getting Started
 
@@ -8,11 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+You will need to have access to a screen reader, Google Chrome, VS Code, and Github to review all assetts of this application. 
 
-```
-Give examples
-```
 
 ### Installing
 
@@ -20,17 +17,15 @@ A step by step series of examples that tell you how to get a development environ
 
 Say what the step will be:
 
-```
-Give the example
-```
+From the Github repository located at https://github.com/amackenzie26/Horiseon-Accessibility-Update
 
-And repeat
+Open the URL: https://amackenzie26.github.io/Horiseon-Accessibility-Update/
 
-```
-until finished
-```
 
-End with an example of getting some data out of the system or using it for a little demo.
+Run a screen reading test to make sure it is accessible to hearing impaired users.
+
+Inspect the web page and use Lighthouse to check for accessibility compliance.
+
 
 
 ## Built With
@@ -41,16 +36,16 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Deployed Link
 
-* [See Live Site](#)
+https://amackenzie26.github.io/Horiseon-Accessibility-Update/
 
 
 ## Authors
 
-* **YOUR NAME** 
+Alec Mackenzie
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- https://amackenzie26.github.io/Horiseon-Accessibility-Update/
+- https://github.com/amackenzie26/Horiseon-Accessibility-Update
+- https://www.linkedin.com/in/alec-mackenzie-5119a5b8/
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
