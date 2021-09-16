@@ -35,54 +35,54 @@ body {
 .header div ul {
     list-style-type: none;
 }
-
+/* Setting the display, margin, and font size */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
     font-size: 25px;
 }
-
+/* Setting color and text-decoration */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Setting the font size */
 p {
     font-size: 16px;
 }
-
+/* Setting the max height, width, and margin */
 .hero {
     max-height: 100%;
     max-width: 100%;
     margin-bottom: 25px;
 }
-
+/* Setting the float location and width */
 .column-left {
     float:left;
     width: 75%;
 }
-
+/* Setting the float location and width */
 .column-right {
     float: right;
     width: 25%;
 }
-
+/* Setting the float location and margin */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Setting the float location and margin */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Setting the display, margin, and width */
 .content {
     display: inline-block;
     margin-left: 20px;
     width: 80%;
 }
-
+/* Setting the margin, padding, clearness, float location, height, font-family and background color */
 .benefits {
     margin-right: 20px;
     padding: 20px;
