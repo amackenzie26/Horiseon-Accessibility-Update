@@ -84,6 +84,61 @@ content {
     flex-direction: column;
 }
 /* Setting the margin, padding, clearness, float location, height, font-family and background color */
+
+/* Setting the margin, padding, height, font-family, background-color and font color */
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* Setting the margin, padding, height, font-family, background-color and font color */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* Setting the margin, padding, height, font-family, background-color and font color */
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* Setting the max height */
+.search-engine-optimization img {
+    max-height: 200px;
+}
+/* Setting the max height */
+.online-reputation-management img {
+    max-height: 200px;
+}
+/* Setting the max height */
+.social-media-marketing img {
+    max-height: 200px;
+}
+/* setting the margin and font-size */
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* setting the margin and font-size */
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* setting the margin and font-size */
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -142,60 +197,7 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
-/* Setting the margin, padding, height, font-family, background-color and font color */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* Setting the margin, padding, height, font-family, background-color and font color */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* Setting the margin, padding, height, font-family, background-color and font color */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* Setting the max height */
-.search-engine-optimization img {
-    max-height: 200px;
-}
-/* Setting the max height */
-.online-reputation-management img {
-    max-height: 200px;
-}
-/* Setting the max height */
-.social-media-marketing img {
-    max-height: 200px;
-}
-/* setting the margin and font-size */
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* setting the margin and font-size */
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* setting the margin and font-size */
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+
 /* setting the padding, clearness, font-family, and aligning text in the center */
 footer {
     padding: 30px;
