@@ -24,7 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 /* Setting all classes within the header div with padding-top,margin-right,float,font-family, and fontsize */
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ header div {
     font-size: 20px;
 }
 /* Setting the unordered list with no style */
-header div ul {
+header nav ul {
     list-style-type: none;
 }
 /* Setting the display, margin, and font size */
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
     font-size: 25px;
@@ -84,7 +84,7 @@ content {
     flex-direction: column;
 }
 /* Setting the margin, padding, clearness, float location, height, font-family and background color */
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     flex-direction: column;
@@ -197,13 +197,13 @@ content {
     font-size: 36px;
 }
 /* setting the padding, clearness, font-family, and aligning text in the center */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 /* Setting the font size */
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
