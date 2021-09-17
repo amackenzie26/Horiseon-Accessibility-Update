@@ -2,6 +2,10 @@
 
 In this project, I was assigned to take existing HTML and CSS code from an existing website for Horiseon Digital Marketing and make it more accessible to users. I was also assigned to improve the semantics of the HTML and CSS documents. 
 
+Here is a screenshot of the entire completed webpage: 
+
+
+
 ## Getting Started
 
 Please visit https://amackenzie26.github.io/Horiseon-Accessibility-Update/ to view the completed website. Please use Google Chrome as the preferred browser to view the webpage and inspect using Google Chrome. 
